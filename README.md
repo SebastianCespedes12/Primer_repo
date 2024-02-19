@@ -13,13 +13,5 @@
 
 [![Captura-de-pantalla-2024-02-13-184620.png](https://i.postimg.cc/g0f8LSS6/Captura-de-pantalla-2024-02-13-184620.png)](https://postimg.cc/4KQmr5TJ)
 
-## Resultados reto 3:
->A partir del algoritmo de identificación de los divisores plantear la serie de pasos para determinar los números primos hasta un natural n.
 
-- Paso 1. Hacer una lista de numeros naturales desde 2 hasta n-1
-- Paso 2. Repetir para cada numero i de la lista
-- Paso 2.1 Dividir por i cada numero de la lista
-- Paso 2.2 Si el resultado de la division es un numero natural se descarta el dividendo
-- Paso 2.3 Sino, se mantiene en la lista
-  Fin
         
