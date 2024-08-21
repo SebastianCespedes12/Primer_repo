@@ -3,7 +3,7 @@
 ## Aquí los resultados del reto 2:
 >1) Block de notas de preferencia y correrlo en el terminal.
 
-![](https://i.postimg.cc/N0PbJkNg/Captura-de-pantalla-2024-02-13-184407.png)](https://postimg.cc/sB7p17d8)
+![](https://i.postimg.cc/N0PbJkNg/Captura-de-pantalla-2024-02-13-184407.png)
 
 >2) Directamente en el interprete de python.
  
